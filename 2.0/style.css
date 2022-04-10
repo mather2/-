@@ -1,0 +1,43 @@
+.text1
+{
+    padding: 30px;
+    /* max-width: 700px; */
+    min-height: 70vh;
+    letter-spacing: 1px;
+    line-height: 1.7;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-between;
+    font-size: 30px;
+    font-family: "STLiti";
+}
+.img
+{
+    display: flex;
+    width: 100%;
+    background-color: aliceblue;
+    justify-content: center;
+    align-content: center;
+}
+.footer
+{
+    display: flex;
+    width: 100%;
+    background-color: aliceblue;   
+    letter-spacing: 1px;
+    flex-direction: column;
+    align-items: center;
+}
+.text2
+{
+    padding: 30px;
+    letter-spacing: 20px;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    font-size: 30px;
+}
